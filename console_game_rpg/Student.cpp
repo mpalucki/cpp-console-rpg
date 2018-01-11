@@ -6,6 +6,10 @@ Student::Student()
 {
 }
 
+Student::Student(string name) : Person::Person(name)
+{
+}
+
 
 Student::~Student()
 {

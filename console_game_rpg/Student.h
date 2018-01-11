@@ -6,6 +6,7 @@ class Student :
 public:
 	Student();
 	~Student();
+	Student(string name);
 	bool getDrunken();
 	void setDrunken(bool isDrunken);
 

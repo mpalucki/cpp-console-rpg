@@ -6,6 +6,11 @@ Person::Person()
 {
 }
 
+Person::Person(string name)
+{
+	this->name = name;
+}
+
 
 Person::~Person()
 {
