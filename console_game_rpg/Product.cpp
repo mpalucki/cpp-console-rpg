@@ -6,6 +6,10 @@ Product::Product()
 {
 }
 
+Product::Product(string name, float price) : Item(name)
+{
+	this->price = price;
+}
 
 Product::~Product()
 {

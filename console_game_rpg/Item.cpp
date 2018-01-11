@@ -6,6 +6,11 @@ Item::Item()
 {
 }
 
+Item::Item(string name)
+{
+	this->name = name;
+}
+
 
 Item::~Item()
 {
