@@ -13,7 +13,7 @@ you have several tasks to complete before you go to the exam, but remember, you 
 * C++ 17
 
 ## How to run
-Just run Zelda.exe. If it doesnt work, then add the .cpp file in a new project (console application) in Microsoft Visual Studio and then build the project and run it.
+Just run console_game_rpg.exe. If it doesnt work, then add the .cpp file in a new project (console application) in Microsoft Visual Studio and then build the project and run it.
 
 ## Author
 Mateusz Pałucki
